@@ -19,6 +19,6 @@
 
 效果如下
 
-![video](https://github.com/FishInWater-1999/GithubUseTest/blob/master/bac_3.jpg)
+![video](https://github.com/haoyuliu/GradientBg/blob/master/20190904_180626.mp4)
 
 
