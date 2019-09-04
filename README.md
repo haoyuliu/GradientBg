@@ -1,2 +1,4 @@
 # GradientBg
 根据banner页面，渐变背景和状态栏
+
+最近看到很多国外的购物app，状态栏和banner背景会根据当前的banner图片发生变化
