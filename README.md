@@ -10,10 +10,15 @@
 可以取到bitmap的色值
 
 包含以下几种类型
-Vibrant （有活力）
-Vibrant dark（有活力 暗色）
-Vibrant light（有活力 亮色）
-Muted （柔和）
-Muted dark（柔和 暗色）
-Muted light（柔和 亮色）
+*Vibrant （有活力）
+*Vibrant dark（有活力 暗色）
+*Vibrant light（有活力 亮色）
+*Muted （柔和）
+*Muted dark（柔和 暗色）
+*Muted light（柔和 亮色）
+
+效果如下
+
+![video](https://github.com/FishInWater-1999/GithubUseTest/blob/master/bac_3.jpg)
+
 
